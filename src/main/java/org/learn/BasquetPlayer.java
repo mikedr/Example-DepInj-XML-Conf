@@ -6,5 +6,4 @@ public class BasquetPlayer implements Sportist{
 		return "I play basquet like Ginobili";
 	}
 	
-
 }
