@@ -1,6 +1,6 @@
 package org.learn;
 
-public interface SportService {
+public interface Sportist {
 
 	String playSport();
 
